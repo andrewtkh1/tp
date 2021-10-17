@@ -13,7 +13,6 @@ object. The class diagram below is a brief overview of how the Parser is related
 <div markdown="span" class="alert alert-info">
 
 :information_source: **Note:** Details of each specific command class & Duke have been omitted from this diagram.
-
 </div>
 
 Below is a step by step example on how the parser is used when a user keys in an input.
