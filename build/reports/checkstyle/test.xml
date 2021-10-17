@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.23">
+<file name="C:\Users\Pryo\Desktop\CS2113TP\src\test\java\seedu\duke\AddCommandTest.java">
+</file>
+<file name="C:\Users\Pryo\Desktop\CS2113TP\src\test\java\seedu\duke\DeleteCommandTest.java">
+</file>
+<file name="C:\Users\Pryo\Desktop\CS2113TP\src\test\java\seedu\duke\DukeTest.java">
+</file>
+<file name="C:\Users\Pryo\Desktop\CS2113TP\src\test\java\seedu\duke\ParserTest.java">
+</file>
+<file name="C:\Users\Pryo\Desktop\CS2113TP\src\test\java\seedu\duke\PeopleManagerTest.java">
+</file>
+<file name="C:\Users\Pryo\Desktop\CS2113TP\src\test\java\seedu\duke\PersonTest.java">
+</file>
+<file name="C:\Users\Pryo\Desktop\CS2113TP\src\test\java\seedu\duke\UiTest.java">
+</file>
+</checkstyle>

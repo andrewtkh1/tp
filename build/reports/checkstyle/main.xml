@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.23">
+<file name="C:\Users\Pryo\Desktop\CS2113TP\src\main\java\seedu\duke\Duke.java">
+</file>
+<file name="C:\Users\Pryo\Desktop\CS2113TP\src\main\java\seedu\duke\Menu.java">
+</file>
+<file name="C:\Users\Pryo\Desktop\CS2113TP\src\main\java\seedu\duke\Parser.java">
+</file>
+<file name="C:\Users\Pryo\Desktop\CS2113TP\src\main\java\seedu\duke\PeopleManager.java">
+</file>
+<file name="C:\Users\Pryo\Desktop\CS2113TP\src\main\java\seedu\duke\Person.java">
+</file>
+<file name="C:\Users\Pryo\Desktop\CS2113TP\src\main\java\seedu\duke\Ui.java">
+</file>
+<file name="C:\Users\Pryo\Desktop\CS2113TP\src\main\java\seedu\duke\command\AddCommand.java">
+</file>
+<file name="C:\Users\Pryo\Desktop\CS2113TP\src\main\java\seedu\duke\command\ByeCommand.java">
+</file>
+<file name="C:\Users\Pryo\Desktop\CS2113TP\src\main\java\seedu\duke\command\Command.java">
+</file>
+<file name="C:\Users\Pryo\Desktop\CS2113TP\src\main\java\seedu\duke\command\DeleteCommand.java">
+</file>
+<file name="C:\Users\Pryo\Desktop\CS2113TP\src\main\java\seedu\duke\command\MenuCommand.java">
+</file>
+<file name="C:\Users\Pryo\Desktop\CS2113TP\src\main\java\seedu\duke\command\OrdersCommand.java">
+</file>
+<file name="C:\Users\Pryo\Desktop\CS2113TP\src\main\java\seedu\duke\command\UnknownCommand.java">
+</file>
+<file name="C:\Users\Pryo\Desktop\CS2113TP\src\main\java\seedu\duke\exceptions\LotsException.java">
+</file>
+</checkstyle>
