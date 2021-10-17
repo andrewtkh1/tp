@@ -24,6 +24,7 @@ Lets assume the input passed in is `delete 1/2`. The method `getCommand()` would
 input into an array of strings along the spaces and store them in the array `listOfInputs`. After which,
 it will get the user's command from the 0th array element and store it in another variable called `commandInString`.
 <br>
+
 Step 2)<br>
 The method will then parse `commandInString` through the switch cases and try to match it with
 one of the known commands. If it is able to match it with a command, the method will instantiate
