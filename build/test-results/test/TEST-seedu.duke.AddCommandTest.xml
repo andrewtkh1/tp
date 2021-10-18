@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="seedu.duke.AddCommandTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2021-10-18T02:30:19" hostname="DESKTOP-6SM8N46" time="0.031">
+  <properties/>
+  <testcase name="execute_quantityCannotBeInWord_throwsLotsException()" classname="seedu.duke.AddCommandTest" time="0.016"/>
+  <testcase name="execute_alphaNumericNamesOnly_throwsLotsException()" classname="seedu.duke.AddCommandTest" time="0.0"/>
+  <testcase name="execute_foodIndexCannotBeInWord_throwsLotsException()" classname="seedu.duke.AddCommandTest" time="0.0"/>
+  <testcase name="execute_quantityIsNegative_throwsLotsException()" classname="seedu.duke.AddCommandTest" time="0.0"/>
+  <testcase name="execute_quantityContainsCharacters_throwsLotsException()" classname="seedu.duke.AddCommandTest" time="0.0"/>
+  <testcase name="execute_inputForFoodIndexIsSpaces_throwsLotsException()" classname="seedu.duke.AddCommandTest" time="0.0"/>
+  <testcase name="execute_foodIndexIsZero_throwsLotsException()" classname="seedu.duke.AddCommandTest" time="0.002"/>
+  <testcase name="execute_inputForNameIsSpaces_throwsLotsException()" classname="seedu.duke.AddCommandTest" time="0.001"/>
+  <testcase name="execute_foodIndexPositiveButOutOfRange_throwsLotsException()" classname="seedu.duke.AddCommandTest" time="0.0"/>
+  <testcase name="execute_quantityPositiveButOutOfRange_throwsLotsException()" classname="seedu.duke.AddCommandTest" time="0.0"/>
+  <testcase name="execute_foodIndexContainsCharacters_throwsLotsException()" classname="seedu.duke.AddCommandTest" time="0.0"/>
+  <testcase name="execute_quantityIsZero_throwsLotsException()" classname="seedu.duke.AddCommandTest" time="0.001"/>
+  <testcase name="execute_wrongNumberOfSlashes_throwsLotsException()" classname="seedu.duke.AddCommandTest" time="0.001"/>
+  <testcase name="execute_inputForNameIsMoreThan50Characters_throwsLotsException()" classname="seedu.duke.AddCommandTest" time="0.001"/>
+  <testcase name="execute_foodIndexIsNegative_throwsLotsException()" classname="seedu.duke.AddCommandTest" time="0.0"/>
+  <testcase name="execute_inputForQuantityIsSpaces_throwsLotsException()" classname="seedu.duke.AddCommandTest" time="0.001"/>
+  <system-out><![CDATA[Quantity is in Words. 
+
+There are other characters in Names. 
+
+Food Index is in Words. 
+
+Quantity is Negative. 
+
+Quantity contains characters. 
+
+Food Index cannot be spaces. 
+
+Food Index is zero. 
+
+Name cannot be spaces. 
+
+Food Index Positive but out of range. 
+
+Quantity Positive but out of range. 
+
+Food Index contains characters. 
+
+Quantity is zero. 
+
+Missing Slash. 
+
+Name cannot be more than 50 spaces. 
+
+Food Index is Negative. 
+
+Quantity cannot be spaces. 
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

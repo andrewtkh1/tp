@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="seedu.duke.DeleteCommandTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-10-18T02:30:20" hostname="DESKTOP-6SM8N46" time="0.051">
+  <properties/>
+  <testcase name="execute_invalidPersonIndex_expectException()" classname="seedu.duke.DeleteCommandTest" time="0.037"/>
+  <testcase name="execute_inputWithoutFoodIndex_expectException()" classname="seedu.duke.DeleteCommandTest" time="0.003"/>
+  <testcase name="execute_invalidInput_expectException()" classname="seedu.duke.DeleteCommandTest" time="0.002"/>
+  <testcase name="execute_personIndexOutOfBounds_expectException()" classname="seedu.duke.DeleteCommandTest" time="0.002"/>
+  <testcase name="execute_invalidOrderIndex_expectException()" classname="seedu.duke.DeleteCommandTest" time="0.002"/>
+  <testcase name="execute_orderIndexOutOfBounds_expectException()" classname="seedu.duke.DeleteCommandTest" time="0.002"/>
+  <testcase name="execute_validInput_expectException()" classname="seedu.duke.DeleteCommandTest" time="0.002"/>
+  <system-out><![CDATA[We have updated the order list for: Markus
+	(1) Ban Mian | Quantity = 1 | Cost = $3.00
+[Total Cost = $3.00]
+
+============================================================================================
+We have updated the order list for: Adam
+	(1) Minced MeatNoodles(Ba Chor Mee) | Quantity = 1 | Cost = $3.00
+[Total Cost = $3.00]
+
+============================================================================================
+We have updated the order list for: Andrew
+	(1) Nasi Lemak | Quantity = 1 | Cost = $3.60
+[Total Cost = $3.60]
+
+============================================================================================
+We have updated the order list for: Markus
+	(1) Ban Mian | Quantity = 1 | Cost = $3.00
+[Total Cost = $3.00]
+
+============================================================================================
+We have updated the order list for: Adam
+	(1) Minced MeatNoodles(Ba Chor Mee) | Quantity = 1 | Cost = $3.00
+[Total Cost = $3.00]
+
+============================================================================================
+We have updated the order list for: Andrew
+	(1) Nasi Lemak | Quantity = 1 | Cost = $3.60
+[Total Cost = $3.60]
+
+============================================================================================
+We have updated the order list for: Markus
+	(1) Ban Mian | Quantity = 1 | Cost = $3.00
+[Total Cost = $3.00]
+
+============================================================================================
+We have updated the order list for: Adam
+	(1) Minced MeatNoodles(Ba Chor Mee) | Quantity = 1 | Cost = $3.00
+[Total Cost = $3.00]
+
+============================================================================================
+We have updated the order list for: Andrew
+	(1) Nasi Lemak | Quantity = 1 | Cost = $3.60
+[Total Cost = $3.60]
+
+============================================================================================
+We have updated the order list for: Markus
+	(1) Ban Mian | Quantity = 1 | Cost = $3.00
+[Total Cost = $3.00]
+
+============================================================================================
+We have updated the order list for: Adam
+	(1) Minced MeatNoodles(Ba Chor Mee) | Quantity = 1 | Cost = $3.00
+[Total Cost = $3.00]
+
+============================================================================================
+We have updated the order list for: Andrew
+	(1) Nasi Lemak | Quantity = 1 | Cost = $3.60
+[Total Cost = $3.60]
+
+============================================================================================
+We have updated the order list for: Markus
+	(1) Ban Mian | Quantity = 1 | Cost = $3.00
+[Total Cost = $3.00]
+
+============================================================================================
+We have updated the order list for: Adam
+	(1) Minced MeatNoodles(Ba Chor Mee) | Quantity = 1 | Cost = $3.00
+[Total Cost = $3.00]
+
+============================================================================================
+We have updated the order list for: Andrew
+	(1) Nasi Lemak | Quantity = 1 | Cost = $3.60
+[Total Cost = $3.60]
+
+============================================================================================
+We have updated the order list for: Markus
+	(1) Ban Mian | Quantity = 1 | Cost = $3.00
+[Total Cost = $3.00]
+
+============================================================================================
+We have updated the order list for: Adam
+	(1) Minced MeatNoodles(Ba Chor Mee) | Quantity = 1 | Cost = $3.00
+[Total Cost = $3.00]
+
+============================================================================================
+We have updated the order list for: Andrew
+	(1) Nasi Lemak | Quantity = 1 | Cost = $3.60
+[Total Cost = $3.60]
+
+============================================================================================
+We have updated the order list for: Markus
+	(1) Ban Mian | Quantity = 1 | Cost = $3.00
+[Total Cost = $3.00]
+
+============================================================================================
+We have updated the order list for: Adam
+	(1) Minced MeatNoodles(Ba Chor Mee) | Quantity = 1 | Cost = $3.00
+[Total Cost = $3.00]
+
+============================================================================================
+We have updated the order list for: Andrew
+	(1) Nasi Lemak | Quantity = 1 | Cost = $3.60
+[Total Cost = $3.60]
+
+============================================================================================
+Alright, that order has been deleted from Adam!
+============================================================================================
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

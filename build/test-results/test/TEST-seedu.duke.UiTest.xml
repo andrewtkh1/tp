@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="seedu.duke.UiTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-18T02:30:20" hostname="DESKTOP-6SM8N46" time="0.001">
+  <properties/>
+  <testcase name="execute_inputContainsExtraInputs_throwsLotsException()" classname="seedu.duke.UiTest" time="0.001"/>
+  <system-out><![CDATA[Please make sure there is no inputs after the list command!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
