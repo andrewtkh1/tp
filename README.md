@@ -1,6 +1,6 @@
-# Large Order Tracking System (LOTS)
+# Duke
 
-
+{Give product intro here}
 
 Useful links:
 * [User Guide](UserGuide.md)
